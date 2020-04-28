@@ -1,1 +1,1 @@
-Today was cool
+Today was cool.
